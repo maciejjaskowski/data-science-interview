@@ -9,3 +9,14 @@
 * How do you summarize the distribution of your data?
 * How do you handle outliers or data points that skew data?
 * What assumptions can you make? Why and when? (i.e When is it safe to assume "normal")
+
+## Sampling
+* Why and when?
+* How do you calculate needed sample size? [Power analysis is advanced]
+* Limitations
+* Bootstrapping and resampling?
+
+## Biases
+* When you sample, what bias are you inflicting?
+* How do you control for biases?
+* What are some of the first things that come to mind when I do X in terms of biasing your data?
