@@ -20,3 +20,9 @@
 * When you sample, what bias are you inflicting?
 * How do you control for biases?
 * What are some of the first things that come to mind when I do X in terms of biasing your data?
+
+## Experimentation 
+* How do test new concepts or hypotheses in....insert domain X? i.e. How would evaluate whether or not consumers like the webpage redesign or new food being served?
+* How do you create test and control groups?
+* How do you control for external factors?
+* How do you evaluate results?
