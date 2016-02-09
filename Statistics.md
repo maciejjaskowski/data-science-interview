@@ -5,3 +5,7 @@
 * I usually ask a question for evaluation familiarity with Bayes Law ("I have two Coins..")
 * What is Box-Cox transformation?
 * What is Multicollinearity ? How can we solve it?
+* t-test
+* z-scores
+* chi-square test
+* know covariance and correlation equations
