@@ -9,3 +9,8 @@
 * z-scores
 * chi-square test
 * know covariance and correlation equations
+
+## Confidence intervals
+* How they are constructed
+* Why you standardize
+* How to interpret
